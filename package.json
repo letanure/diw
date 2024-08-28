@@ -1,23 +1,20 @@
 {
-  "name": "qar",
-  "version": "1.0.0",
-  "description": "ui library",
-  "main": "index.js",
-  "scripts": {
-    "test": "test"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/letanure/qar.git"
-  },
-  "keywords": [
-    "ui",
-    "library"
-  ],
-  "author": "Luiz Tanure",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/letanure/qar/issues"
-  },
-  "homepage": "https://github.com/letanure/qar#readme"
+	"name": "diw",
+	"version": "1.0.0",
+	"description": "ui library",
+	"main": "index.js",
+	"scripts": {
+		"test": "test"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/letanure/diw.git"
+	},
+	"keywords": ["ui", "library"],
+	"author": "Luiz Tanure",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/letanure/diw/issues"
+	},
+	"homepage": "https://github.com/letanure/diw#readme"
 }
